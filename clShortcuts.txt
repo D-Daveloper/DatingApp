@@ -1,0 +1,2 @@
+dirname code . :type to open the directory in vs code
+dotnet dev-certs https --trust :use to make broswers trust dotnet self assigned certificates
